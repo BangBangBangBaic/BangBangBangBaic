@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+BangBang's+World!!!;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+BangBang's+World!!!;你好呀远方的朋友！)
 
 
 <!--
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 南昌大学29届计算机在读
+目标是成为计算机领域的高手！
+虽然我还距离目标很遥远，但是我觉得我坚持下去能做到的
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BangBangBangBaic=anuraghazra)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BangBangBangBaic=anuraghazra)
 
