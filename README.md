@@ -1,24 +1,27 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+BangBang's+World!!!;你好呀远方的朋友！)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+BangBang's+World!!!;你好呀咕咕嘎嘎)
 
+#  Hi, I'm BangBangBangBaic
 
-<!--
-**BangBangBangBaic/BangBangBangBaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Golang Developer | Nanchang University (Class of 2029)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 南昌大学29届计算机在读
-目标是成为计算机领域的高手！
-虽然我还距离目标很遥远，但是我觉得我坚持下去能做到的
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BangBangBangBaic=anuraghazra)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BangBangBangBaic=anuraghazra)
+### ️ Tech Stack
+- **Languages:** Golang
+- **Currently Learning:** System Design & Distributed Systems
 
+---
+
+###  GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BangBangBangBaic&theme=dark&show_icons=true&hide=contribs" alt="GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangBangBangBaic&theme=dark&layout=compact" alt="Top Languages" style="width: 48%;" />
+</div>
+
+---
+
+###  Recent Activity
+- Exploring the depths of cloud-native technologies.
+- Building scalable backend services with Golang.
